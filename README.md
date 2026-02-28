@@ -10,7 +10,7 @@ In homogeneous networks a single routing protocol advertises all reachable netwo
 
 The lab is divided into blocks representing different routing domains.  Each block uses a different protocol or area, and the routers that interconnect them perform redistribution.  A high‑level view of the network is illustrated below (see **images/network_diagram.png**):
 
-![Network topology](images/network_diagram.png)
+![Network topology](network_diagram.png)
 
 * **EIGRP block (AS 11)** – the left portion of the network runs Enhanced Interior Gateway Routing Protocol.  Several subnets and PCs are connected.  Hosts obtain IP addresses via a DHCP server.
 * **OSPF Area 1** – the central block uses OSPF area 1.  It contains user networks and servers.  A router in this area redistributes routes into EIGRP and RIP.
