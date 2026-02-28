@@ -1,6 +1,6 @@
 # Route Redistribution Lab (EIGRP, OSPF & RIP) with NAT & ACL
 
-This repository contains a **Cisco Packet Tracer** lab and supporting documentation that demonstrate how to design and configure a multi‑protocol network.  It combines variable‑length subnetting (VLSM), multiple interior gateway protocols (EIGRP, OSPF and RIP), route redistribution, Dynamic Host Configuration Protocol (DHCP), Network Address Translation (NAT) and access‑list filtering.  The provided Packet Tracer file (`Redistribution.pkt`) can be opened in Cisco Packet Tracer to practise the configuration.  The documentation below summarises the design, explains the underlying theory and gives high‑level steps for configuring the routers and services.
+This repository contains a **Cisco Packet Tracer** lab and supporting documentation that demonstrate how to design and configure a multi‑protocol network.  It combines variable‑length subnetting (VLSM), multiple interior gateway protocols (EIGRP, OSPF and RIP), route redistribution, Dynamic Host Configuration Protocol (DHCP), Network Address Translation (NAT) and access‑list filtering.  The provided Packet Tracer file (Redistribution.pkt) can be opened in Cisco Packet Tracer to practise the configuration.  The documentation below summarises the design, explains the underlying theory and gives high‑level steps for configuring the routers and services.
 
 ## Why route redistribution?
 
